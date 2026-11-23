@@ -72,7 +72,7 @@ Because we do not collect accounts, names, or email addresses, we cannot identif
 
 ## 8. Children's Privacy
 
-NerveTrader is intended for adult users (18+) and is not directed to children under 16 in the EEA (or under 13 in other regions). We do not knowingly collect personal data from children. If you believe a child has provided personal data to us, please contact **`[YOUR_EMAIL@EXAMPLE.COM]`** so we can delete it promptly.
+NerveTrader is intended for adult users (18+) and is not directed to children under 16 in the EEA (or under 13 in other regions). We do not knowingly collect personal data from children. If you believe a child has provided personal data to us, please contact **`semenasha12345@gmail.com`** so we can delete it promptly.
 
 ---
 
